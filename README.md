@@ -1,2 +1,2 @@
-# neon_card
+# Neon Card
 site : https://site-trax.netlify.app/
